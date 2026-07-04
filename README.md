@@ -1,5 +1,3 @@
-# AI-Receptionist
-Enterprise AI Receptionist for Calls, WhatsApp, Website &amp; Business Automation.
 # 🤖 AI Receptionist
 
 <h3 align="center">
